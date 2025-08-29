@@ -1,74 +1,58 @@
-# 👋 Hi, I'm Muhammad Haroon  
+<h1 align="center">👋 Muhammad Haroon</h1>
 
-💻 Aspiring **AI Developer** | Learning **Python, AI/ML, LLM Apps**  
-🌱 Focused on building **minimal, functional, real-world AI tools**  
-⚡ Passionate about **hands-on learning & experimentation**  
-
----
-
-## 🚀 About Me  
-I'm still learning and actively seeking opportunities to **gain experience in AI development**.  
-I enjoy turning ideas into simple, user-friendly applications powered by AI.  
-
-- 🔭 Current Project: **ByteBuddy** – a small-scale LLM distilled from TinyLlama  
-- 🌱 Exploring: **LangChain, Groq, Transformers, Model Distillation**  
-- 💬 Ask me about: **Python, Streamlit Apps, LLM Integration**  
-- 📫 Reach me at: **mharoon.dev@gmail.com**  
+<p align="center">
+  💻 Aspiring <b>AI Developer</b> | 🚀 Building Minimal AI Tools | 🌱 Still Learning & Gaining Experience  
+</p>
 
 ---
 
-## 🛠 Tech I’m Learning / Using  
-
-<details>
-<summary>Languages</summary>  
-Python, JavaScript, Java  
-</details>
-
-<details>
-<summary>AI & ML</summary>  
-HuggingFace Transformers, LangChain, PandasAI, Scikit-learn, TensorFlow  
-</details>
-
-<details>
-<summary>Web Development</summary>  
-Streamlit, Flask, Django, React  
-</details>
-
-<details>
-<summary>Databases</summary>  
-PostgreSQL, MongoDB, MySQL  
-</details>
+## 🔥 About Me
+- 🎯 Passionate about **AI, LLMs, and Intelligent Applications**  
+- 🌱 Currently learning: **LangChain, Groq, Hugging Face**  
+- 🛠 Focused on **building real-world, minimal & functional AI apps**  
+- 🤝 Actively seeking **internship opportunities to gain industry experience**  
 
 ---
 
-## 🏆 Featured Projects  
+## ⚡ Skills & Tools
 
-**ByteBuddy (WIP)**  
-🧠 Distilled LLM from TinyLlama 1.1B for lightweight summarization  
-- Tools: HuggingFace, TRL, PyTorch  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,tailwind,html,css,docker,vscode,pycharm,linkedin" /><br/>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,mysql,anaconda,github,obsidian,fastapi" />
+</p>
 
-**AI-Powered Hospital Assistant**  
-💬 Streamlit chatbot for booking/canceling appointments with LangChain + Groq  
-- Tools: Streamlit, Pandas, LangChain  
+---
 
-**Data Assistant with PandasAI**  
-📊 Natural language data analysis and editing for CSV/Excel  
-- Tools: Streamlit, PandasAI  
+## 🚀 Featured Projects
+
+- **🎙 Echo Voice Agent** → Voice-based conversational AI with tool integration.  
+  Can act as a **voice-first calling agent** with smart context handling and external tool access.  
+
+- **📊 AI Data Analyst** → Natural language + PandasAI-driven analysis.  
+  Capable of handling **big data queries**, generating **graphs & insights**, and even **editing datasets via queries**.  
+  Ready to be scaled into a **business-ready data intelligence tool**.  
+
+- **🔍 Agentic Search Engine** → LLM-powered intelligent search platform.  
+  Goes beyond text — can **search images, research papers, and contextual web data** with reasoning capabilities.  
 
 ---
 
 ## 📊 GitHub Stats  
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=mharoon1578&show_icons=true&theme=dark&hide_border=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mharoon1578&layout=compact&theme=dark&hide_border=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=mharoon1578&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mharoon1578&layout=compact&theme=tokyonight&hide_border=true"/>
 </div>  
 
 ---
 
-## 🤝 Connect with Me  
-[GitHub](https://github.com/mharoon1578) | [LinkedIn](https://linkedin.com/in/) | 📧 **mharoon.dev@gmail.com**  
+## 🌐 Connect with Me
+<p align="center">
+  <a href="https://github.com/mharoon1578"><img src="https://img.shields.io/badge/GitHub-171717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/muhammad-haroon-a097a9342"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:mharoon.contact@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
 ---
 
-✨ *Thanks for stopping by — let’s build something amazing together!* 🚀
+✨ *Thanks for visiting! Let’s connect and build something amazing together.* 🚀
