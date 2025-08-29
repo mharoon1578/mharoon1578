@@ -1,44 +1,74 @@
-# Hi, I'm Muhammad Haroon 👋
+# 👋 Hi, I'm Muhammad Haroon  
 
-## 🚀 About Me  
-I'm an aspiring **AI Developer** passionate about Python, machine learning, and building practical AI applications.  
-I am still learning, but I’m highly motivated to gain **hands-on experience** through internships and real-world projects.  
-
-- 🔭 Currently working on **ByteBuddy** — a distilled small-scale language model based on TinyLlama  
-- 🌱 Learning **LangChain, Groq LLMs, HuggingFace Transformers, and Model Distillation**  
-- 👯 Open to collaborating on **AI/ML projects, chatbots, and data-driven apps**  
-- 📫 Contact: **mharoon.dev@gmail.com**  
+💻 Aspiring **AI Developer** | Learning **Python, AI/ML, LLM Apps**  
+🌱 Focused on building **minimal, functional, real-world AI tools**  
+⚡ Passionate about **hands-on learning & experimentation**  
 
 ---
 
-## 🛠 Skills & Technologies  
-- **Languages:** Python, JavaScript, Java  
-- **AI/ML:** HuggingFace Transformers, LangChain, PandasAI, Scikit-learn, TensorFlow  
-- **Web Development:** Streamlit, Flask, Django, React  
-- **Databases:** PostgreSQL, MongoDB, MySQL  
+## 🚀 About Me  
+I'm still learning and actively seeking opportunities to **gain experience in AI development**.  
+I enjoy turning ideas into simple, user-friendly applications powered by AI.  
+
+- 🔭 Current Project: **ByteBuddy** – a small-scale LLM distilled from TinyLlama  
+- 🌱 Exploring: **LangChain, Groq, Transformers, Model Distillation**  
+- 💬 Ask me about: **Python, Streamlit Apps, LLM Integration**  
+- 📫 Reach me at: **mharoon.dev@gmail.com**  
+
+---
+
+## 🛠 Tech I’m Learning / Using  
+
+<details>
+<summary>Languages</summary>  
+Python, JavaScript, Java  
+</details>
+
+<details>
+<summary>AI & ML</summary>  
+HuggingFace Transformers, LangChain, PandasAI, Scikit-learn, TensorFlow  
+</details>
+
+<details>
+<summary>Web Development</summary>  
+Streamlit, Flask, Django, React  
+</details>
+
+<details>
+<summary>Databases</summary>  
+PostgreSQL, MongoDB, MySQL  
+</details>
 
 ---
 
 ## 🏆 Featured Projects  
 
-**1. ByteBuddy (Work in Progress)**  
-A distilled small-scale language model from TinyLlama 1.1B for lightweight summarization.  
-- Tech: HuggingFace, TRL, PyTorch  
-- Features: Model Distillation, Summarization Dataset Training, GGUF Export  
+**ByteBuddy (WIP)**  
+🧠 Distilled LLM from TinyLlama 1.1B for lightweight summarization  
+- Tools: HuggingFace, TRL, PyTorch  
 
-**2. AI-Powered Hospital Assistant**  
-A Streamlit chatbot for booking and canceling doctor appointments using LangChain + Groq.  
-- Tech: Streamlit, LangChain, Groq, Pandas  
-- Features: Doctor availability from CSV, email notifications, patient ID system  
+**AI-Powered Hospital Assistant**  
+💬 Streamlit chatbot for booking/canceling appointments with LangChain + Groq  
+- Tools: Streamlit, Pandas, LangChain  
 
-**3. Data Assistant with PandasAI**  
-A data analysis assistant that lets users query and edit CSV/Excel files in natural language.  
-- Tech: Streamlit, PandasAI, LangChain  
-- Features: Data editing, visualization, natural language queries  
+**Data Assistant with PandasAI**  
+📊 Natural language data analysis and editing for CSV/Excel  
+- Tools: Streamlit, PandasAI  
+
+---
+
+## 📊 GitHub Stats  
+
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=mharoon1578&show_icons=true&theme=dark&hide_border=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mharoon1578&layout=compact&theme=dark&hide_border=true"/>
+</div>  
 
 ---
 
 ## 🤝 Connect with Me  
-- GitHub: [github.com/mharoon1578](https://github.com/mharoon1578)  
-- LinkedIn: [Your LinkedIn Profile Link]  
-- Email: **mharoon.dev@gmail.com**  
+[GitHub](https://github.com/mharoon1578) | [LinkedIn](https://linkedin.com/in/) | 📧 **mharoon.dev@gmail.com**  
+
+---
+
+✨ *Thanks for stopping by — let’s build something amazing together!* 🚀
