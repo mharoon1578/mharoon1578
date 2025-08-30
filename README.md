@@ -28,7 +28,7 @@
 - **🎙 Echo Voice Agent** → Voice-based conversational AI with tool integration.  
   Can act as a **voice-first calling agent** with smart context handling and external tool access.  
 
-- **📊 AI Data Analyst** → Natural language + PandasAI-driven analysis.  
+- **📊 AI Data Analyst** → Natural language + analysis.  
   Capable of handling **big data queries**, generating **graphs & insights**, and even **editing datasets via queries**.  
   Ready to be scaled into a **business-ready data intelligence tool**.  
 
